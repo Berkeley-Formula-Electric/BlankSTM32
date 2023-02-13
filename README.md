@@ -44,6 +44,12 @@ STM32F103C8 is another possible drop-in variant.
 
 - JLC#: `C8304` (CBT6) `C8734` (C8T6)
 
+## STM32F303RE
+
+STM32F303RE comes with 4 independent OpAmps and 6 ADCs. Very good for multi-channel mixed-signal applications. Used in the 3D scale project.
+
+- JLC#: `C183214`
+
 ## STM32F446RE
 
 STM32F446RE is a bit more advanced compared to STM32F103Cx, with more pin available and running at a higher clock frequency. We use this in our microbasic design.
